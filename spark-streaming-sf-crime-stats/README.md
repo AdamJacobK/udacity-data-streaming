@@ -1,6 +1,6 @@
 # SF Crime Statistics with Spark Streaming Project
 
-## Introduction 
+## Requirements 
 
 - findspark
 - pyspark
